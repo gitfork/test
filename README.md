@@ -8,18 +8,18 @@ There will be 5 RC race cars hidden in various locations around Pixel’s Camp s
 
 ## How It Works
 
-# Thursday
+## Thursday
 Bring your best scavenger hunting skills and find your car! There will be 5 cars hidden throughout the camp starting Thursday at 10am. Follow **@habit_analytics** on twitter for clues to finding the cars throughout the day.
 
 Once you’ve found your car, check inside for clues on how to start connecting the car to the Habit platform. Visit the Habit Dome for more tips and tools to get you up and running.
 
-# Friday: Workshops
+## Friday: Workshops
 We will be hosting workshops at the Habit Dome **on Friday at 10am and 2pm** where you can learn more about integrating with our platform and get new ideas on how to really pimp up your ride.
 
-# Saturday: Ready... Set... Race!
+## Saturday: Ready... Set... Race!
 It’s off to the races!! “Drive” your car over to the Habit Dome and be prepared to burn some rubber on the racetrack. First car to win the race will win the Grand Prix Trophy and be eligible for the Habit Pixels camp prize.
 
-# Any questions?
+## Any questions?
 
 E-mail us at [pixelscamp@habit.io](mailto:pixelscamp@habit.io)  or tweet us @habit_analytics
 
