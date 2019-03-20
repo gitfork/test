@@ -1,7 +1,7 @@
 ## Surprise Challenge!  HABITCAR 500 RACE
 *Find a car, control it with Habit, and join the race.*
 
-![Habit](https://github.com/habitio/PixelsCamp-Challenge/blob/master/illustration.png)
+![Habit](https://github.com/AnaFigueira/test/blob/master/habit-car-illustration.jpeg)
 
 ## Challenge
 There will be 5 RC race cars hidden in various locations around Pixel’s Camp starting at 10am on Thursday. Be one of the first 5 people or teams to find the car, connect it to Habit and get it up to speed so you can participate in the final race on Saturday afternoon. Use Habit to turn up the speed and control your car around the racetrack for the chance to win the “Grand Prix” (plus eternal bragging rights). Completing this challenge will also make you eligible for the Pixel’s Camp Habit Competition prize.
